@@ -13,7 +13,7 @@ runParamTest fait la même chose pour notre .wav de test
 pour générer les .lab
 
 ## lancer le script Perl convertLabToTg
-pour convertir ces .lab en .TextGrid
+pour convertir ces .lab en .TextGrid afin de pouvoir les visualiser en ouvrant sur Praat (https://www.fon.hum.uva.nl/praat/) et le fichier audio et le text grid correspondant à son annotation phonémique.
 
 ## lancer le script Perl runApprentissage
 Lance sur le jeu de données les fonctions HInit, HRest, HERest et HHEd de HTK
